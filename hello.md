@@ -1,1 +1,2 @@
-Hello friends!
+Hello 
+Привет
