@@ -1,0 +1,13 @@
+Привет! Это Наталья )
+git remote -v
+проверить профиль
+
+git checkout -b NataN
+создание новой ветки с переходом на нее
+
+touch originN.txt
+создать файл
+
+git push -u origin NataN
+пушить новую ветку
+
